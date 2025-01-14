@@ -47,35 +47,39 @@ Shield Insurance aims to improve its data-driven decision-making by implementing
 Column Description for dim_customer:
 This table contains all the information about the customers
 
-customer_code: Unique code is given to each customer
-dob: Customer's date of birth
-city: It is the city where the customer is present
+1. customer_code: Unique code is given to each customer.
+2. dob: Customer's date of birth.
+3. city: It is the city where the customer is present.
+   
 Column Description for dim_date:
 This table contains the dates at daily, monthly levels and week numbers of the year
 
-date: date at the daily level
-mmm_yy: date at the monthly level
-day_type: weekday (Sunday, Monday, etc.)
-week_no: week number of the year as per the date column
+1. date: date at the daily level.
+2. mmm_yy: date at the monthly level.
+3. day_type: weekday (Sunday, Monday, etc.)
+4. week_no: week number of the year as per the date column.
+   
 Column Description for dim_policies:
 This table contains all policies data
 
-policy_id: unique ID for a particular policy
-base_cover: base cover amount for that particular policy
-base_premium_amt(INR): The premium amount that the customer has to pay to get the policy
+1. policy_id: unique ID for a particular policy.
+2.base_cover: base cover amount for that particular policy.
+3.base_premium_amt(INR): The premium amount that the customer has to pay to get the policy.
+
 Column Description for fact_premiums:
 This table contains all information about policy orders.
 
-date: Date on which the policy is sold
-customer_code: Unique code is given to each customer
-Policy_id: Unique ID for each policy
-sales_mode: mode of the sales (Offline-Agent, Offline-Direct, Online-App, Online-Website)
-final_premium_amt(INR): The premium amount that is paid for that policy by the customer
+1. date: Date on which the policy is sold.
+2. customer_code: Unique code is given to each customer.
+3. Policy_id: Unique ID for each policy.
+4. sales_mode: mode of the sales (Offline-Agent, Offline-Direct, Online-App, Online-Website).
+5. final_premium_amt(INR): The premium amount that is paid for that policy by the customer.
+   
 Column Description for fact_settlements:
 This table contains information about policy settlement
 
-age: Age of the policyholder
-settlement% : Percent of policy settlements happend for this age.
+1. age: Age of the policyholder.
+s2. ettlement% : Percent of policy settlements happend for this age.
 
 # Data Cleaning & Transformation 
 
