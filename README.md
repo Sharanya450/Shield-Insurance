@@ -7,8 +7,8 @@ Shield Insurance aims to improve its data-driven decision-making by implementing
 
 # Tasks 
 * Show total customers, total revenue, daily revenue growth, daily customer growth as key metrics
-Month over month change% on key metrics
-Segment customers based on their age groups: 18-24, 25-30, 31-40, 41-50, 51-65, and 65+
+* Month over month change% on key metrics
+* Segment customers based on their age groups: 18-24, 25-30, 31-40, 41-50, 51-65, and 65+
 Total revenue split by age group, city
 Total customers split by age group, city
 Customers, daily customer growth trend by month
