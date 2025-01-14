@@ -89,13 +89,13 @@ settlement% : Percent of policy settlements happend for this age.
 Data Analyzing
 Power BI was used to analyze data.
 
-# Key Metrics:
+## Key Metrics:
 DRG: Daily Revenue Growth (DRG) can be calculated by dividing the total revenue earned in a specific month by the number of unique dates within that month. This calculation gives us a clear picture of how much, on average, the company's revenue is growing each day during that time period.
 DCG: Daily Customer Growth (DCR) measures the average daily increase in the customer base during a specific month. It's calculated by dividing the total new customers acquired in a month by the number of unique dates within that month.
 DCR provides insights into the daily growth rate of the customer base, helping evaluate the company's ability to attract and retain customers on a day-to-day basis.
 
 
-## Insights:
+# Insights:
 Customer Base: Shield Insurance has a total of 26,841 customers.
 Revenue: The company generated a total revenue of 989.25 million.
 Top City: Delhi leads with 11,007 customers and revenue of 401.57 million, making it the top-performing region.
