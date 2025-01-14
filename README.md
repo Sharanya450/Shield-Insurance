@@ -108,7 +108,8 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 
 
 # Recommendations:
-Focus on Digital Channels: While the offline agent channel dominates, increasing investment in digital sales channels could diversify customer acquisition and boost revenue.
-Target Younger Demographics: Continue to engage the 31-40 age group with tailored offerings, as they contribute the highest customer base and revenue.
-Address Monthly Fluctuations: Investigate the reasons behind the sharp decline in April 2023 to prevent future drops and ensure consistent growth.
-Promote Top-Performing Policies: Highlight and expand marketing efforts around popular policies like "POL4321HEL" and high-revenue policies like "POL2005HEL."
+- Boost sales in Delhi NCR with loyalty programs and upselling ,while improving performance in Indore with targeted campaigns and customer research to drive growth across all cities. 
+- Focus on retaining the high-revenue 31-40 age group with tailored offerings while attracting 18-24 age group through affordable products and digital marketing.
+- Invest in strengthening digital channels (App and Website) to diversify revenue streams and reduce dependence on the Agent mode.
+- Tailor policies and risk management strategies for high-settlement age groups.
+- Customize product offerings by age group to match preferences and optimize multi channel engagement.
