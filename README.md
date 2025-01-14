@@ -96,6 +96,7 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 
 # Data Modelling
 
+![Data Model]()
 
 
 # Insights:
