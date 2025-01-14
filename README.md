@@ -98,6 +98,9 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 
 ![Data Model](data_model.png)
 
+# Dashboard 
+
+Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYjI1YmQwMzAtZjZkOC00MDAwLTgwNDAtNjQyMjk3MTE0ZDVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 # Insights:
 * Customer Base: Shield Insurance has a total of 26,841 customers.
